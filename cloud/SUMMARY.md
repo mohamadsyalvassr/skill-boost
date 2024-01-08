@@ -6,6 +6,7 @@
   * [Cloud Deployment Model](fundamental/cloud-deployment-model.md)
   * [Cloud Service Model](fundamental/cloud-service-model.md)
   * [Cloud Advanced Concept](fundamental/cloud-advanced-concept.md)
+* [Cloud Storage](cloud-storage.md)
 
 ## AWS <a href="#amazon" id="amazon"></a>
 
