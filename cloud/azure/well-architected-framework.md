@@ -1,2 +1,0 @@
-# Well-Architected Framework
-
